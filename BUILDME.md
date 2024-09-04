@@ -8,6 +8,9 @@
 cargo shuttle help
 cargo shuttle project help
 cargo shuttle project list
+cargo shuttle project start
+cargo shuttle project restart
+cargo shuttle deploy --allow-dirty
 ...
 ```
 
