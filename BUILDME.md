@@ -1,5 +1,7 @@
 # Espoleta
 
+- [Rust Full Stack Workshop](https://bcnrust.github.io/devbcn-workshop/index.html)
+
 ## Shuttle
 
 - [CLI](https://docs.shuttle.rs/getting-started/shuttle-commands)
